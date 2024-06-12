@@ -4,7 +4,7 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalyssonDEV&theme=midnight-cyan" alt="thalyssonDEV" width="401" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalyssonDEV&theme=midnight-purple" alt="thalyssonDEV" width="401" />
     <img src="https://github-readme-stats.vercel.app/api?username=thalyssonDEV&show_icons=true&locale=en&theme=midnight-purple" alt="thalyssonDEV" width="380" />
 </div>
 

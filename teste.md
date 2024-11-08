@@ -27,19 +27,7 @@ I'm experienced in a variety of programming languages and frameworks, with a par
 
 <p align="center">
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="50" height="50"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-    </a>
-    <a href="https://godotengine.org" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Godot_engine_logo.svg" alt="Godot" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"/>
+        <img src="images/cpp.png" alt="C++" width="500" height="500"/>
     </a>
 </p>
 

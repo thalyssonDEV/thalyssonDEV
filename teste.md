@@ -27,7 +27,7 @@ I'm experienced in a variety of programming languages and frameworks, with a par
 
 <p align="center">
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="images/cpp.png" alt="C++" width="500" height="500"/>
+        <img src="images/ISO_C++_Logo.svg.png" alt="C++" width="50" height="50"/>
     </a>
 </p>
 

@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Thalysson Delano
+# Hello, I'm Thalysson Delano
 
 Welcome to my GitHub profile! I'm a Systems Analysis and Development student at the Federal Institute of Piauí (IFPI). I'm passionate about coding and always eager to learn and collaborate.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Systems Analysis and Development student at 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalyssonDEV&theme=radical" alt="Streak Stats" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api?username=thalyssonDEV&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thalyssonDEV&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="350" />
 </div>
 
 ---
@@ -25,19 +25,7 @@ Welcome to my GitHub profile! I'm a Systems Analysis and Development student at 
 
 <p align="center">
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="50" height="50"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-    </a>
-    <a href="https://godotengine.org" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Godot_engine_logo.svg" alt="Godot" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw1oQGeXdO6ipMsFDmosdcf-&ust=1731175072286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjNkqKnzYkDFQAAAAAdAAAAABAI" alt="C++" width="50" height="50"/>
     </a>
 </p>
 
@@ -61,18 +49,3 @@ Welcome to my GitHub profile! I'm a Systems Analysis and Development student at 
 </p>
 
 ---
-
-## 🌟 My Projects
-
-<p align="center">
-    <!-- Add project links and descriptions here -->
-    <a href="https://github.com/thalyssonDEV" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/github/followers/thalyssonDEV?style=social" alt="GitHub Followers" />
-    </a>
-</p>
-
----
-
-<p align="center">
-    <img src="https://source.unsplash.com/random/900x600/?technology" width="900" height="600" alt="Footer Image">
-</p>

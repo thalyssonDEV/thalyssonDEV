@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Systems Analysis and Development student at 
 
 <p align="center">
     <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw1oQGeXdO6ipMsFDmosdcf-&ust=1731175072286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjNkqKnzYkDFQAAAAAdAAAAABAI" alt="C++" width="50" height="50"/>
+        <img src="images/cpp.pn" alt="C++" width="50" height="50"/>
     </a>
 </p>
 

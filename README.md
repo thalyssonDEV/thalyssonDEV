@@ -1,4 +1,4 @@
-# Hello, I'm Thalysson Delano
+# Hello, I'm Thalysson Delano 🍃
 
 Welcome to my GitHub profile! I'm a Systems Analysis and Development student at the Federal Institute of Piauí (IFPI). I'm passionate about coding and always eager to learn and collaborate.
 

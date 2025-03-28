@@ -50,7 +50,7 @@
     <tr>
       <!-- Principais linguagens -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalyssonDEV&show_icons=true&locale=en&layout=compact&theme=gotham" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalyssonDEV&show_icons=true&count_private=true&locale=en&layout=compact&theme=gotham" />
       </td>
       <!-- Estatísticas gerais -->
       <td>
